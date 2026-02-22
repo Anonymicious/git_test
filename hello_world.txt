@@ -1,2 +1,0 @@
-Hello World!
-This is my first time using github and git for tracking my project.
